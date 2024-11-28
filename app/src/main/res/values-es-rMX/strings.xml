@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculadora Básica</string>
+    <string name="result">Resultado</string>
+    <string name="numer1">Número 1</string>
+    <string name="numer2">Número 2</string>
+    <string name="calculate">Calcular</string>
+    <string name="error_invalid_numbers">Por favor, ingresa números válidos.</string>
+    <string name="error_divide_by_zero">No se puede dividir entre 0.</string>
+    <string name="addition">Suma</string>
+    <string name="subtraction">Resta</string>
+    <string name="multiplication">Multiplicación</string>
+    <string name="division">División</string>
+
+    <string-array name="options">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicación</item>
+        <item>División</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonRosa" parent="Theme.Calculadora_Basica">
+        <item name="backgroundTint" >@color/Rosa</item>
+    </style>
+
+    <style name="CustomTextStyle">
+    <item name="android:textColor">@color/cian</item>
+    </style>
+
+</resources>

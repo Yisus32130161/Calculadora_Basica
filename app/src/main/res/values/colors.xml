@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cafe">#774342</color>
+    <color name="Amarillo">#FFF200</color>
+    <color name="Rojo">#ED1C24</color>
+    <color name="cian">#2DFFFB</color>
+    <color name="lavanda">#C92EFF</color>
+    <color name="Dorado">#FFD700</color>
+    <color name="Rosa">#FF1FFA</color>
+
+
+
+</resources>

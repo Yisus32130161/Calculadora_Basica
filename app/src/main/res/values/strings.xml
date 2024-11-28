@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Basic Calculator</string>
+    <string name="result">Result</string>
+    <string name="numer1">Number 1</string>
+    <string name="numer2">Number 2</string>
+    <string name="calculate">Calculate</string>
+    <string name="error_invalid_numbers">Please enter valid numbers.</string>
+    <string name="error_divide_by_zero">You cannot divide by zero.</string>
+    <string name="addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+
+    <string-array name="options">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+    </string-array>
+</resources>
